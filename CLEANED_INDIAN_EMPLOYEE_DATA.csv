@@ -1,0 +1,14 @@
+EMP_ID,NAME,AGE,SALARY(INR),CITY,DEPARTMENT,PERFORMANCE RATING
+EMP_100,AARAV GUPTA,25,45000.0,Delhi,Sales,8.0
+EMP_102,Priya Sharma,28,61000.0,Bengaluru,Finance,9.0
+EMP_104,Sneha Nair,27,75000.0,Hyderabad,Human Resources,8.0
+EMP_105,Arjun Verma,22,40714.28571428572,Pune,Operations,7.0
+EMP_107,Devansh Singh,25,55000.0,Ahmedabad,Customer Support,8.0
+EMP_110,Pooja Das,30,40714.28571428572,Chandigarh,IT,9.0
+EMP_112,Ananya Pillai,24,62000.0,Surat,Sales,8.5
+EMP_113,Karan Choudhary,22,49000.0,Bhopal,Finance,
+EMP_114,Isha Thakur,28,70000.0,Nagpur,Human Resources,9.0
+EMP_115,Rahul Malhotra,20,44000.0,Noida,Marketing,5.0
+EMP_117,Siddharth Sinha,26,64000.0,Patna,Sales,7.0
+EMP_119,Vikram Yadav,24,53000.0,Vadodara,Finance,6.5
+EMP_120,Tanvi Kapoor,25,50000.0,Delhi,Sales,

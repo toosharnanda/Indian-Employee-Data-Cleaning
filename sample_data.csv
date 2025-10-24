@@ -1,0 +1,22 @@
+EMP_ID,NAME,AGE,SALARY(INR),CITY,DEPARTMENT,PERFORMANCE RATING
+EMP_100,AARAV GUPTA,25,45000,Delhi,Sales,8
+EMP_101,Aarav Mehta,23,NaN,Mumbai,Marketing,NaN
+EMP_102,Priya Sharma,28,61000,Bengaluru,Finance,9
+EMP_103,Rohan Patel,24,inf,Chennai,IT,6.5
+EMP_104,Sneha Nair,27,75000,Hyderabad,Human Resources,8
+EMP_105,Arjun Verma,22,-50000,Pune,Operations,7
+EMP_106,Kavya Iyer,26,inf,Kolkata,Sales,9
+EMP_107,Devansh Singh,25,55000,Ahmedabad,Customer Support,NaN
+EMP_108,Nisha Reddy,29,82000,Jaipur,Finance,8
+EMP_109,Aditya Bansal,21,NaN,Lucknow,Marketing,6
+EMP_110,Pooja Das,30,-90000,Chandigarh,IT,9
+EMP_111,Manish Gupta,23,NaN,Indore,Operations,7
+EMP_112,Ananya Pillai,24,62000,Surat,Sales,8.5
+EMP_113,Karan Choudhary,22,49000,Bhopal,Finance,inf
+EMP_114,Isha Thakur,28,70000,Nagpur,Human Resources,9
+EMP_115,Rahul Malhotra,20,44000,Noida,Marketing,5
+EMP_116,Diya Joshi,27,NaN,Gurugram,IT,NaN
+EMP_117,Siddharth Sinha,26,64000,Patna,Sales,7
+EMP_118,Meera Rao,29,-inf,Kochi,Operations,9
+EMP_119,Vikram Yadav,24,53000,Vadodara,Finance,6.5
+EMP_120,Tanvi Kapoor,25,50000,Delhi,Sales,inf
